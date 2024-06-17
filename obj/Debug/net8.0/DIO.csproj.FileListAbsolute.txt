@@ -1,0 +1,14 @@
+C:\Users\luanv\Documents\PROJETOS\DIO\obj\Debug\net8.0\DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanv\Documents\PROJETOS\DIO\obj\Debug\net8.0\DIO.AssemblyInfoInputs.cache
+C:\Users\luanv\Documents\PROJETOS\DIO\obj\Debug\net8.0\DIO.AssemblyInfo.cs
+C:\Users\luanv\Documents\PROJETOS\DIO\obj\Debug\net8.0\DIO.csproj.CoreCompileInputs.cache
+C:\Users\luanv\Documents\PROJETOS\DIO\bin\Debug\net8.0\DIO.exe
+C:\Users\luanv\Documents\PROJETOS\DIO\bin\Debug\net8.0\DIO.deps.json
+C:\Users\luanv\Documents\PROJETOS\DIO\bin\Debug\net8.0\DIO.runtimeconfig.json
+C:\Users\luanv\Documents\PROJETOS\DIO\bin\Debug\net8.0\DIO.dll
+C:\Users\luanv\Documents\PROJETOS\DIO\bin\Debug\net8.0\DIO.pdb
+C:\Users\luanv\Documents\PROJETOS\DIO\obj\Debug\net8.0\DIO.dll
+C:\Users\luanv\Documents\PROJETOS\DIO\obj\Debug\net8.0\refint\DIO.dll
+C:\Users\luanv\Documents\PROJETOS\DIO\obj\Debug\net8.0\DIO.pdb
+C:\Users\luanv\Documents\PROJETOS\DIO\obj\Debug\net8.0\DIO.genruntimeconfig.cache
+C:\Users\luanv\Documents\PROJETOS\DIO\obj\Debug\net8.0\ref\DIO.dll
